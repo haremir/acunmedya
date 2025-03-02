@@ -108,4 +108,8 @@ print("")
 if sayi1 <= sayi2:
     print("Sayi 1 Sayi 2'den küçüktür")
 if sayi1 == sayi2:
-    print("I
+    print("İki sayi eşittir")
+else:
+    print("Sayi 1 Sayi 2'den büyüktür")
+
+print("Burası if bloğunun dışıdır.")
