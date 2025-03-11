@@ -1,7 +1,7 @@
 #alias
-from matematik import topla as toplamaIslemi
-from day2 import sayHello
-from human import Human
+from odev1.matematik import topla as toplamaIslemi
+from odev1.day2 import sayHello
+from odev1.human import Human
 #built-in modules
 import random
 #package

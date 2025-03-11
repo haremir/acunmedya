@@ -1,5 +1,5 @@
-from human import Human
-import matematik as math
+from odev1.human import Human
+import odev1.matematik as math
 
 math.bol(20,2)
 
